@@ -23,4 +23,4 @@ vault and read along.
   overwrite your changes. Keep your own notes in a different folder.
 - Mobile setup is fragile in v1; desktop is the supported path.
 
-For the full setup walkthrough, see https://sentence-of-the-day.pages.dev/nl/obsidian.
+For the full setup walkthrough, see https://sentence-of-the-day.pages.dev/nl-NL/obsidian.
